@@ -15,3 +15,7 @@ More text...
 Some deployment text
 
 ## How To Contribute
+
+## Copyright
+
+Git training project
