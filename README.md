@@ -8,6 +8,10 @@ This is example for intro.
 
 ## Purpose
 
+More text...
+
 ## Deployment
+
+Some deployment text
 
 ## How To Contribute
