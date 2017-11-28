@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ihor Sosnovsky some.mail@mail.com
 
 # THANKS
 
