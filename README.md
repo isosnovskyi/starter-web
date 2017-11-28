@@ -16,6 +16,8 @@ Some deployment text
 
 ## How To Contribute
 
+Some instructions how to contribute
+
 ## Copyright
 
 Git training project
